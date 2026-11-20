@@ -1,5 +1,5 @@
-Hi there, I'm Prachi Chimaniya! 👋
-💻 Full Stack Developer | 🎓 B.Tech Student in AI & ML | 🚀 Tech Enthusiast
+Hi there, I'm Prachi Chimaniya! 👋<br> <br>
+💻 Full Stack Developer | 🎓 B.Tech Student in AI & ML | 🚀 Tech Enthusiast<br>
 
 I'm Prachi Chimaniya, currently pursuing my B.Tech in Artificial Intelligence & Machine Learning (AIML). I'm passionate about building innovative web applications, exploring new technologies, and creating impactful digital solutions.
 
