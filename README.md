@@ -1,7 +1,7 @@
-Hi there, I'm Prachi Chimaniya! 👋<br><ul>
-💻 Full Stack Developer | 🎓 B.Tech Student in AI & ML | 🚀 Tech Enthusiast<br><ul>
+Hi there, I'm Prachi Chimaniya! 👋<br><u>
+💻 Full Stack Developer | 🎓 B.Tech Student in AI & ML | 🚀 Tech Enthusiast<br><u>
 
-I'm Prachi Chimaniya, currently pursuing my B.Tech in Artificial Intelligence & Machine Learning (AIML). I'm passionate about building innovative web applications, exploring new technologies, and creating impactful digital solutions.<br><ul>
+I'm Prachi Chimaniya, currently pursuing my B.Tech in Artificial Intelligence & Machine Learning (AIML). I'm passionate about building innovative web applications, exploring new technologies, and creating impactful digital solutions.<br><u>
 
 👩‍💻 About Me<br>
 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning.<br>
@@ -10,38 +10,38 @@ I'm Prachi Chimaniya, currently pursuing my B.Tech in Artificial Intelligence & 
 🔭 Interested in developing dynamic and user-friendly web applications.<br>
 🤖 Passionate about Artificial Intelligence and Machine Learning.<br>
 🤝 Open to collaboration, internships, and exciting projects.<br>
-🎯 Focused on improving my development skills and building real-world projects.<br><br><ul>
+🎯 Focused on improving my development skills and building real-world projects.<br><br><u>
 🛠️ Tech Stack
 🎨 Frontend Development
 
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p><ul></ul>
+</p>
 
 ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring" />
-</p><ul></ul>
+</p>
 
 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
-</p><ul></ul>
+</p>
 
 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,js" />
-</p><ul></ul>
+</p>
 
 🔧 Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p><ul></ul>
+</p><u></u>
 
 📊 GitHub Stats
 
