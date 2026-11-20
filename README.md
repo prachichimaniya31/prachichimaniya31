@@ -3,14 +3,14 @@ Hi there, I'm Prachi Chimaniya! 👋
 
 I'm Prachi Chimaniya, currently pursuing my B.Tech in Artificial Intelligence & Machine Learning (AIML). I'm passionate about building innovative web applications, exploring new technologies, and creating impactful digital solutions.
 
-👩‍💻 About Me
-🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning.
-💻 Aspiring Full Stack Developer.
-🌱 Constantly learning and exploring new technologies.
-🔭 Interested in developing dynamic and user-friendly web applications.
-🤖 Passionate about Artificial Intelligence and Machine Learning.
-🤝 Open to collaboration, internships, and exciting projects.
-🎯 Focused on improving my development skills and building real-world projects.
+👩‍💻 About Me<br>
+🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning.<br>
+💻 Aspiring Full Stack Developer.<br>
+🌱 Constantly learning and exploring new technologies.<br>
+🔭 Interested in developing dynamic and user-friendly web applications.<br>
+🤖 Passionate about Artificial Intelligence and Machine Learning.<br>
+🤝 Open to collaboration, internships, and exciting projects.<br>
+🎯 Focused on improving my development skills and building real-world projects.<br>
 🛠️ Tech Stack
 🎨 Frontend Development
 
