@@ -1,7 +1,7 @@
-Hi there, I'm Prachi Chimaniya! 👋
-💻 Full Stack Developer | 🎓 B.Tech Student in AI & ML | 🚀 Tech Enthusiast
+Hi there, I'm Prachi Chimaniya! 👋<br><ul>
+💻 Full Stack Developer | 🎓 B.Tech Student in AI & ML | 🚀 Tech Enthusiast<br><ul>
 
-I'm Prachi Chimaniya, currently pursuing my B.Tech in Artificial Intelligence & Machine Learning (AIML). I'm passionate about building innovative web applications, exploring new technologies, and creating impactful digital solutions.
+I'm Prachi Chimaniya, currently pursuing my B.Tech in Artificial Intelligence & Machine Learning (AIML). I'm passionate about building innovative web applications, exploring new technologies, and creating impactful digital solutions.<br><ul>
 
 👩‍💻 About Me<br>
 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning.<br>
@@ -10,38 +10,38 @@ I'm Prachi Chimaniya, currently pursuing my B.Tech in Artificial Intelligence & 
 🔭 Interested in developing dynamic and user-friendly web applications.<br>
 🤖 Passionate about Artificial Intelligence and Machine Learning.<br>
 🤝 Open to collaboration, internships, and exciting projects.<br>
-🎯 Focused on improving my development skills and building real-world projects.<br>
+🎯 Focused on improving my development skills and building real-world projects.<br><br><ul>
 🛠️ Tech Stack
 🎨 Frontend Development
 
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+</p><ul></ul>
 
 ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
+</p><ul></ul>
 
 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+</p><ul></ul>
 
 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,js" />
-</p>
+</p><ul></ul>
 
 🔧 Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</p><ul></ul>
 
 📊 GitHub Stats
 
@@ -58,7 +58,7 @@ I'm Prachi Chimaniya, currently pursuing my B.Tech in Artificial Intelligence & 
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=prachichimaniya31&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+</p><ul></ul>
 
 ✨ My Motto
 
