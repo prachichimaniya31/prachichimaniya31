@@ -14,6 +14,7 @@ I'm Prachi Chimaniya, currently pursuing my B.Tech in Artificial Intelligence & 
 🛠️ Tech Stack
 🎨 Frontend Development
 
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
